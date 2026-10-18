@@ -1,6 +1,6 @@
 # Kiran Bhatt — Portfolio
 
-Personal portfolio for Kiran Bhatt, a biotechnology graduate developing expertise across computational genomics, clinical data, and data engineering.
+This is a personal portfolio demo for Kiran Bhatt, a biotechnology graduate developing expertise across computational genomics, clinical data, and data engineering.
 
 **Live website:** [thekiranbhatt.github.io](https://thekiranbhatt.github.io/)
 
